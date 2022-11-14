@@ -1,7 +1,7 @@
 ---
 title: Namrata Srivastava
 role: Post-doctoral Researcher | Data Scientist
-avatar_filename: namrata.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
